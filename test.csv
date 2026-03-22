@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,category,region,sales
+1001,01/15/2023,John Smith,Technology,West,1500.00
+1002,02/20/2023,Jane Doe,Furniture,East,850.00
+1003,03/10/2023,Bob Lee,Office Supplies,South,200.00
+1004,04/05/2023,Sara Khan,Technology,West,3200.00
+1005,05/12/2023,Mike Chen,Furniture,Central,1100.00
+1006,06/18/2023,Amy Roy,Office Supplies,East,450.00
+1007,07/22/2023,Tom Sharma,Technology,South,2800.00
+1008,08/30/2023,Lisa Park,Furniture,West,950.00
+1009,09/14/2023,Raj Patel,Office Supplies,Central,320.00
+1010,10/01/2023,Emma Davis,Technology,East,4100.00
